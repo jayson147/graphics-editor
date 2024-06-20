@@ -1,1 +1,1 @@
-# graphics-editor
+# Java Graphics Editor Program
